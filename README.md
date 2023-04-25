@@ -3,4 +3,4 @@
 ### Выполнил: студент группы ИВТ-223, Тимофеев М. Е.
 ### Вариант: 8
 ### Задание: Чат-бот для студентов по дисциплине (выбор студента, его посещаемость и баллы)
-![Image alt](https://github.com/{timaxutka}/{Lab2_BPA}/raw/{43ed77fc4c287e4a93cb11597e39b1e86913bebb}/image.png)
+![Image alt](https://github.com/timaxutka/Lab2_BPA/blob/main/1.png)
